@@ -3,7 +3,7 @@ It was interesting to see the different perspectives and artistic approches of d
 
 Meyerhold and Popova also created art that can be considered Gesamtkunstwerk. For example, Popova had a projection screen hanging from the ceiling, which served to display any additional information for the audience. She also created "...a labyrinth of ramps, steps, ladders, painted wheels...[which created] a 'workplace for the actors' and not a space of decoration" (Sellars, p.18). In other words, Popova made the stage perfomance much more engaging for both the actors and the viewers themselves by creating 3-dimensional spaces that required actors to move around more.
 
-Lastly, perhaps Automatic Rain can be an example of Gesamtkunstwerk. Automatic Rain combines the art and beauty of nature, which inspired JODI to create this art piece in the first place. Furthermore, a photograph of rain and code is used to create this work of art. Code was organized in a manner that mimics rain. The numbers were colored blue and have a toggling effect. 
+Lastly, Automatic Rain can perhaps be an example of Gesamtkunstwerk. Automatic Rain combines the art and beauty of nature, which inspired JODI to create this art piece in the first place. Furthermore, a photograph of rain and code is used to create this work of art. Code was organized in a manner that mimics rain. The numbers were colored blue and have a toggling effect. 
 
 <!--       ,
                           //\
