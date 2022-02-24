@@ -1,0 +1,3 @@
+## Project#2 Proposal
+
+This is still a work in progress, but I probably would like to have my virtual background be my parent's hometown, a pueblo in Mexico, during a festival. If the festival idea is too complicated to achieve, then simply I would love to have my parent's hometown represented in some way. It would be interesting if I can include an image of the pueblo as the background and then add motion to the background by adding "people" walking by or a vender selling food. Or, I can perhaps add music coming from afar and a lot of chattering and laughing. A soccer ball can be bouncing across the screen from children playing.
